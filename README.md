@@ -1,9 +1,6 @@
-# How to Create a Blog PHP & MySQL database
 
-## PHP Blogging Website
-
-
-version: 1.0.0
+## Blogging Website using PHP
+A simple blog website where you can do whatever you can do in a blogging website
 
 ## TECHNOLOGIES
 
