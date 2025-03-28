@@ -5,7 +5,7 @@ A simple blog website where you can do whatever you can do in a blogging website
 ## TECHNOLOGIES
 
 1. PHP
-1. HTML & CSS
-1. JQuery AJAX
-1. Javascript
-1. Bootstrap 5
+2. HTML & CSS
+3. JQuery AJAX
+4. Javascript
+5. Bootstrap 5
